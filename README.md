@@ -1,7 +1,8 @@
 ## <div align="center">I'm Imanol Castro👨‍💻</div>  
   
 - I am a Full Stack Web Developer with prefrence for the front-end. My best Tech Skills are JavaScript, ReactJS, HTML, CSS and Redux. I also have knowldege of MongoDB, NodeJS, Express, PostgreSql, GIT and Tailwind
-- I’m starting to learn about machine learning and AI   
+- I’m starting to learn about machine learning and AI
+- To contact via email: imanolcastro13@gmail.com 
   
 
 <br/>  
