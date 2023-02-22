@@ -2,7 +2,7 @@
   
 - I am a Full Stack Web Developer with prefrence for the front-end. My best Tech Skills are JavaScript, ReactJS, HTML, CSS and Redux. I also have knowldege of MongoDB, NodeJS, Express, PostgreSql, GIT and Tailwind
 - I'm currently working on a football project measuring the probablity of a team winning the match based on the season results
-- I’m starting to learn about machine learning and AI
+- I’m learning React Native and TypeScript
 - To contact via email: imanolcastro13@gmail.com 
   
 
